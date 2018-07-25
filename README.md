@@ -10,5 +10,5 @@
 
 ### Screenshoots
 ![Image](https://github.com/dawidgierdal/El_Papriko/blob/master/Screenshots/header.PNG)
-![Image](https://github.com/dawidgierdal/El_Papriko/blob/master/Screenshots/midt.PNG)
+![Image](https://github.com/dawidgierdal/El_Papriko/blob/master/Screenshots/mid.PNG)
 ![Image](https://github.com/dawidgierdal/El_Papriko/blob/master/Screenshots/footer.PNG)
